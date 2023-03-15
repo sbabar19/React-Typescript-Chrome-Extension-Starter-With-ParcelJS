@@ -1,0 +1,15 @@
+{
+  "name": "React Chrome Extension Starter",
+  "description": "This extension uses ParcelJS as the build tool. This is of great help during the development process.",
+  "version": "0.1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "public/index.html",
+    "default_title": "Open the popup"
+  },
+  "icons": {
+    "16": "public/logo192.png",
+    "48": "public/logo192.png",
+    "128": "public/logo192.png"
+  }
+}
