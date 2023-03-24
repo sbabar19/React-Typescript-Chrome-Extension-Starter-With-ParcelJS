@@ -2,7 +2,7 @@
 
 In the project directory, you can run:
 
-### `npm run dev`
+### `npm run start`
 
 Runs the app in the development mode.\
 A `dist` folder will be generated in the project directory. In chrome's extension section, choose the `Load unpacked` option and direct it to this `dist` folder. 
